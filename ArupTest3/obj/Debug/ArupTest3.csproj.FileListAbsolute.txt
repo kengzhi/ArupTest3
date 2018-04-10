@@ -1,0 +1,6 @@
+c:\users\kengzhi\source\repos\ArupTest3\ArupTest3\bin\Debug\ArupTest3.dll
+c:\users\kengzhi\source\repos\ArupTest3\ArupTest3\bin\Debug\ArupTest3.pdb
+c:\users\kengzhi\source\repos\ArupTest3\ArupTest3\obj\Debug\ArupTest3.csprojResolveAssemblyReference.cache
+c:\users\kengzhi\source\repos\ArupTest3\ArupTest3\obj\Debug\ArupTest3.csproj.CoreCompileInputs.cache
+c:\users\kengzhi\source\repos\ArupTest3\ArupTest3\obj\Debug\ArupTest3.dll
+c:\users\kengzhi\source\repos\ArupTest3\ArupTest3\obj\Debug\ArupTest3.pdb
